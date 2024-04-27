@@ -1,2 +1,1 @@
-# JavaScriptLearning 
-new commit
+# JavaScriptLearning

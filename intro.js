@@ -1,0 +1,1 @@
+console.log("HI i am external javascript code");
